@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.movies {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: 12px;
+  padding: 10px;
+}
