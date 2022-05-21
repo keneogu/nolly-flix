@@ -1,9 +1,10 @@
 import './App.css';
+import Movies from './Movies';
 
 function App() {
   return (
     <div className="App">
-      <h1>Start Project</h1>
+      <Movies />
     </div>
   );
 }
