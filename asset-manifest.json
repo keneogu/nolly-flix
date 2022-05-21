@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nolly-flix/static/css/main.bf301622.css",
+    "main.js": "/nolly-flix/static/js/main.24a05385.js",
+    "index.html": "/nolly-flix/index.html",
+    "main.bf301622.css.map": "/nolly-flix/static/css/main.bf301622.css.map",
+    "main.24a05385.js.map": "/nolly-flix/static/js/main.24a05385.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf301622.css",
+    "static/js/main.24a05385.js"
+  ]
+}
